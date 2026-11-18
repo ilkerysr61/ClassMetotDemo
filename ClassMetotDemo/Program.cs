@@ -8,7 +8,7 @@ namespace ClassMetotDemo
         {
             Customer customer1 = new Customer();
             customer1.Name = "İlker";
-            customer1.Surname = "Yaşar";
+            customer1.Surname = "hjgukhjk";
             customer1.TCNo = 12354621458;
 
             Customer customer2 = new Customer();
